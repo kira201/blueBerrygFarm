@@ -12,7 +12,7 @@ cc.Class({
     // LIFE-CYCLE CALLBACKS:
     setGlobalConfig () {
         cc.props = {
-                    'isOpenWx':false, //是否开启微信接口相关   
+                    'isOpenWx':true, //是否开启微信接口相关   
                     
         
                    }
