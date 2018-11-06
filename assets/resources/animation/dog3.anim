@@ -1,0 +1,61 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "dog3",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 3.4571428571428573,
+  "sample": 35,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "aa9d796f-8de3-465a-a980-d42d7eaeeb70"
+            }
+          },
+          {
+            "frame": 0.14285714285714285,
+            "value": {
+              "__uuid__": "9f1eeea8-6cd4-4dd9-8b93-4f162e0b3e14"
+            }
+          },
+          {
+            "frame": 0.2857142857142857,
+            "value": {
+              "__uuid__": "0ed6ca51-8ef5-40e4-afa5-f669efad1bcd"
+            }
+          },
+          {
+            "frame": 0.42857142857142855,
+            "value": {
+              "__uuid__": "6925a502-67a7-45b7-909b-05ae0936755a"
+            }
+          },
+          {
+            "frame": 0.5714285714285714,
+            "value": {
+              "__uuid__": "0f48fe21-9161-4a52-9897-0b4a2d990da3"
+            }
+          },
+          {
+            "frame": 0.7142857142857143,
+            "value": {
+              "__uuid__": "ddb9419e-3fc8-49e9-82ac-b076ef825029"
+            }
+          },
+          {
+            "frame": 3.4285714285714284,
+            "value": {
+              "__uuid__": "ddb9419e-3fc8-49e9-82ac-b076ef825029"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

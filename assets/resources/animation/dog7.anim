@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "dog7",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.3,
+  "sample": 40,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "d66313a7-e0a7-4a20-adb9-f3a511e96a07"
+            }
+          },
+          {
+            "frame": 0.125,
+            "value": {
+              "__uuid__": "b4b8dc4f-5c6e-4187-b251-164fb7eeaf3a"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "4fb67689-c825-4183-8dbb-931ddfce51ce"
+            }
+          },
+          {
+            "frame": 0.375,
+            "value": {
+              "__uuid__": "19c0cfac-c4a7-48b0-9743-e6fbd4272a06"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "8646230c-e450-4129-819c-c04e8f1be9dd"
+            }
+          },
+          {
+            "frame": 2.275,
+            "value": {
+              "__uuid__": "8646230c-e450-4129-819c-c04e8f1be9dd"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "288109b7-3a5a-46ff-a133-ef3ab7eb2848",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "goldShopBg": {
+      "ver": "1.0.3",
+      "uuid": "815cd788-143e-4bb1-8381-3f7bcd9a5abe",
+      "rawTextureUuid": "288109b7-3a5a-46ff-a133-ef3ab7eb2848",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 791,
+      "height": 640,
+      "rawWidth": 791,
+      "rawHeight": 640,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

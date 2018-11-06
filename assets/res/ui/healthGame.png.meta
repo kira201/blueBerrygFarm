@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "1e16a8eb-438e-47f7-bba9-df823c73ec3d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "healthGame": {
+      "ver": "1.0.3",
+      "uuid": "6acb7425-7f67-4f62-a45c-b5ffc033c6b1",
+      "rawTextureUuid": "1e16a8eb-438e-47f7-bba9-df823c73ec3d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 359,
+      "height": 59,
+      "rawWidth": 359,
+      "rawHeight": 59,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "dog8",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.0166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "71931bc3-0d67-4ba8-aea5-5333a7102f95"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "35953c2c-8759-48a2-81ae-ad666176f2f1"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "9f6d5777-b23e-4688-ac99-71243a8d6dac"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "39358e0d-fd57-4490-aca5-895db8faf62d"
+            }
+          },
+          {
+            "frame": 2,
+            "value": {
+              "__uuid__": "39358e0d-fd57-4490-aca5-895db8faf62d"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

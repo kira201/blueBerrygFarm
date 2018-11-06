@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "26782cba-c6da-42b9-bf92-b3ec26aea6d7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "buyBerryBtn": {
+      "ver": "1.0.3",
+      "uuid": "dff9e712-dd53-40f5-9996-c82771939e2b",
+      "rawTextureUuid": "26782cba-c6da-42b9-bf92-b3ec26aea6d7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 222,
+      "height": 71,
+      "rawWidth": 222,
+      "rawHeight": 71,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

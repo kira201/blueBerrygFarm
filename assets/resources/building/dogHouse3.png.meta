@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "c5c391c8-43ed-4608-8547-cf951e3ddc61",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "dogHouse3": {
+      "ver": "1.0.3",
+      "uuid": "2410b4d6-b13b-4a28-b787-75ed38d404f4",
+      "rawTextureUuid": "c5c391c8-43ed-4608-8547-cf951e3ddc61",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 238,
+      "height": 215,
+      "rawWidth": 238,
+      "rawHeight": 215,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "dog10",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.3,
+  "sample": 40,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "ebe3fc2a-534a-4438-b681-25f365dcb345"
+            }
+          },
+          {
+            "frame": 0.125,
+            "value": {
+              "__uuid__": "e60fb543-3299-42dc-8c34-4ec8e677e40e"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "f93a042b-922c-466c-9cde-ebac9a430276"
+            }
+          },
+          {
+            "frame": 0.375,
+            "value": {
+              "__uuid__": "d8f3705e-67dc-432f-97b7-74f2cf934c44"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "b81245cc-46a4-4235-9462-8852170a27f6"
+            }
+          },
+          {
+            "frame": 2.275,
+            "value": {
+              "__uuid__": "b81245cc-46a4-4235-9462-8852170a27f6"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
